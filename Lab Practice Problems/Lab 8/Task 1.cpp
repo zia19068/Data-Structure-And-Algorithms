@@ -1,4 +1,4 @@
-//24K-0817   merge sort practice
+//  merge sort practice
 #include <iostream>
 using namespace std;
 
