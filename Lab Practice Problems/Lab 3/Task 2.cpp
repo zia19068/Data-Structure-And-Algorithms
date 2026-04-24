@@ -1,3 +1,17 @@
+/*Task # 02:
+A Bookstore wants to maintain a list of books available in its store using a singly linked list.
+Each book record contains:
+ Book ID
+ Book Title
+ Author Name
+The system should support the following operations:
+ Insert a new book at the beginning of the list.
+ Insert a new book at the end of the list.
+ Insert a new book at a specific position in the list (any point).
+ Delete a book from the beginning of the list.
+ Delete a book from the end of the list.
+ Delete a book from a specific position in the list (any point).
+ Search for a book by its ID and display its details.*/
 #include<iostream>
 using namespace std;
 
