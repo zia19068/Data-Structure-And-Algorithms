@@ -1,3 +1,10 @@
+/*Task # 03:
+A file system stores folders inside folders. Each folder can contain files and/or subfolders.
+ A file has a fixed size in KB.
+ A folder’s total size is the sum of all its files plus the sizes of its subfolders.
+Task to do:
+Write a recursive function getFolderSize() that takes a folder structure and returns its total size.
+(Hint: Use recursion to keep entering subfolders until all files are counted.)*/
 #include <iostream>
 using namespace std;
 
