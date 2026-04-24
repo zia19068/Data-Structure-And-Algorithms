@@ -1,3 +1,5 @@
+/* Compare the performance of Comb Sort with Bubble Sort for a reverse-sorted array {9,
+8, 7, 6, 5, 4, 3, 2, 1}. Which one is faster and why?*/
 #include <iostream>
 using namespace std;
 int main() {
