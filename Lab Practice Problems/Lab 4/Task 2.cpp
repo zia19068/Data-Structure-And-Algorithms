@@ -1,3 +1,6 @@
+/*Task # 02:
+ Use Selection Sort to arrange names of 5 cities alphabetically. (Hint: compare strings
+instead of integers.)*/
 #include <iostream>
 #include <string>
 using namespace std;
