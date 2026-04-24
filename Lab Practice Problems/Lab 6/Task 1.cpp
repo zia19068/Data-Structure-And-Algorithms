@@ -1,3 +1,7 @@
+/*Task # 01:
+Write a recursive function to check if a given string is a palindrome.
+Input: madam
+Output: Yes, it is a palindrome*/
 #include <iostream>
 #include <string>
 using namespace std;
