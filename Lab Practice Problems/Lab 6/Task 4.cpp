@@ -1,3 +1,10 @@
+/*Task # 04: (N-Queens Problem)
+
+You are given a chessboard of size N × N. The task is to place N queens on the board such that
+no two queens attack each other.
+     A queen can attack horizontally, vertically, and diagonally.
+ Print two valid arrangement of queens using recursion + backtracking.
+    */
 #include <iostream>
 using namespace std;
 int board[20];
