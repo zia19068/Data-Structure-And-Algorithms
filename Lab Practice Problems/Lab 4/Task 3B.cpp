@@ -1,3 +1,5 @@
+/*Modify Insertion Sort to arrange numbers in descending order. Test with: {15, 2, 78, 25,
+63}*/
 #include <iostream>
 using namespace std;
 
