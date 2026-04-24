@@ -1,3 +1,8 @@
+/*Compare Binary Search and Interpolation Search for the list:
+{5, 10, 15, 20, 25, 30, 35, 40, 45, 50}
+ Search for 45
+ Show number of comparisons each method makes
+ Conclude which one is more efficient in this case.*/
 #include <iostream>
 using namespace std;
 int main() {
