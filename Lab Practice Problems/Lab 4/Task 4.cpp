@@ -1,3 +1,6 @@
+/*Task # 04:
+ Implement Shell Sort to sort an array of 20 random numbers. Display the gap sequence
+used.*/
 #include <iostream>
 using namespace std;
 
