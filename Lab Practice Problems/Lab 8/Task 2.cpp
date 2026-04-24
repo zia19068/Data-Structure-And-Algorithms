@@ -1,4 +1,4 @@
-//24K-0817   quick sort practice
+//  quick sort practice
 #include <iostream>
 using namespace std;
 
