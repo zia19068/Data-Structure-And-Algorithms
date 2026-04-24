@@ -1,3 +1,13 @@
+/*Task # 01:
+
+A university wants to maintain a dynamic list of students registering for a course. Each student
+has a roll number, name, and department.
+Implement a singly linked list to store student data.
+Write functions to:
+1. Add a new student at the end of the list.
+2. Delete a student by roll number.
+3. Display all registered students.
+Question: Implement the above scenario in C++.*/
 #include<iostream>
 using namespace std;
 class Node{
