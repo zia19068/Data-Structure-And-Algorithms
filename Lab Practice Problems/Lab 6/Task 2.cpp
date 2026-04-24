@@ -1,3 +1,7 @@
+/*Task # 02:
+Write a recursive function to find the GCD (Greatest Common Divisor) of two numbers.
+Input: 48, 18
+Output: 6*/
 #include <iostream>
 using namespace std;
 
