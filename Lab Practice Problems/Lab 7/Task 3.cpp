@@ -1,3 +1,4 @@
+/* write a code for Queue in array*/
 #include <iostream>
 
 using namespace std;
