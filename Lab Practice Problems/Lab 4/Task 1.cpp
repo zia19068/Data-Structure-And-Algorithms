@@ -1,3 +1,8 @@
+/*Task # 01:
+ Write a C++ program using Bubble Sort to sort an array of 10 integers entered by the user.
+Display the array before and after sorting.
+ Modify Bubble Sort to stop early if the array becomes sorted before completing all passes.
+Show with an example input how it works.*/
 #include <iostream>
 using namespace std;
 
