@@ -1,3 +1,8 @@
+/*Write a C++ program using Interpolation Search to find a product price from the sorted
+list:
+{10, 20, 30, 40, 50, 60, 70, 80}
+ Input: a price entered by the user
+ Output: "Price found at position X" or "Price not available"*/
 #include <iostream>
 using namespace std;
 int main() {
