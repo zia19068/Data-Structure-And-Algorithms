@@ -1,3 +1,15 @@
+/*Task # 04:
+
+A text editor stores each character of a word in a singly linked list, where each node contains a
+single character.
+The editor needs to check whether the word entered by the user is a Palindrome (a string that
+reads the same forwards and backwards, e.g. madam, level).
+Tasks:
+1. Implement a singly linked list to store the characters of the word.
+2. Write a function to check whether the linked list forms a palindrome.
+3. Display an appropriate message:
+ If the word is a palindrome → display true
+ Otherwise → display false*/
 #include <iostream>
 #include <cstring>
 using namespace std;
