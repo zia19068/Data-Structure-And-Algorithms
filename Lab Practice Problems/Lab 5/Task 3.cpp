@@ -1,3 +1,14 @@
+/*A university stores roll numbers of students in a sorted database. When an admin wants to check
+whether a student is registered, the system uses Binary Search instead of checking each roll
+number one by one.
+Tasks:
+1. Write a C++ program to search for a roll number in the sorted list:
+{101, 105, 110, 120, 135, 150}
+ Input: a roll number from the user
+ Output: "Roll number found" or "Roll number not found"
+2. Enhance the program to count and display how many comparisons were made while
+searching.
+Example: Searching for 120 should show both the result and the number of steps taken.*/
 #include <iostream>
 using namespace std;
 int main() {
