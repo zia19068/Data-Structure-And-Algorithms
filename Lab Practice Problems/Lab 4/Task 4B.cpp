@@ -1,3 +1,5 @@
+/*Compare Shell Sort vs Insertion Sort for the same input of {50, 40, 30, 20, 10}. Show
+which one sorts faster (by counting shifts/swaps).*/
 #include <iostream>
 using namespace std;
 
