@@ -1,3 +1,10 @@
+/*Task # 05: (Rat in a Maze)
+
+A rat is placed at the top-left corner (0,0) of a maze represented by a grid of 0s and 1s.
+ 0 => blocked path
+ 1 => open path
+The rat can move Down, Right, Up, or Left but cannot revisit a cell.
+The goal is to find all possible paths from (0,0) to (N-1, N-1) using backtracking.*/
 #include <iostream>
 #include <string>
 using namespace std;
