@@ -1,3 +1,11 @@
+/*Question #2
+Scenario: A modern file system organizes directories such that every level of the storage hierarchy
+is fully filled, except possibly the last level, which is filled from left to right to maintain a Complete
+Binary Tree structure.
+ Task: Implement a Complete Binary Tree to represent this file system. Use a Post-order
+Traversal (traversing left child, then right child, then the parent) to calculate the total storage
+space used by a directory and its sub-directories.
+ Average Complexity: O(n) for visiting all nodes in the tree.*/
 #include <iostream>
 #include <string>
 using namespace std;
