@@ -1,3 +1,10 @@
+/*Question #5
+Scenario: A system uses a Binary Search Tree to act as a priority queue for background tasks. The
+keys in the tree represent the priority levels of the tasks. When a task is completed, it must be
+removed from the system.
+ Task: Implement a BST Deletion function. Specifically, handle the complex case where a
+task node with two children needs to be deleted by replacing it with its Inorder Successor
+(the smallest element in its right subtree) to maintain the tree&#39;s integrity.*/
 #include <iostream>
 #include <string>
 using namespace std;
