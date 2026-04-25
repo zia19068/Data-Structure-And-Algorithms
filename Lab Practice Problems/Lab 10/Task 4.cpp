@@ -1,3 +1,12 @@
+/*Question # 04
+Scenario: You need to verify if an AVL tree implementation is truly maintaining its balance
+property after a series of complex operations. Lab Task:
+1. Implement a Queue class using a linked list as shown in the source.
+2. Write a printLevelOrder(Node* root) function that uses this queue to traverse the tree
+breadth-first.
+3. Task: Perform five insertions and two deletions, then use your printLevelOrder function to
+output the tree. The output must prove that the height difference between any two subtrees
+remains <1*/
 #include <iostream>
 using namespace std;
 
