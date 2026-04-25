@@ -1,3 +1,11 @@
+/*Question # 03
+Scenario: You are building a digital dictionary. Inserting certain word combinations creates a
+&quot;double imbalance&quot; where a node&#39;s child is heavy on the opposite side of the parent&#39;s imbalance.
+Lab Task:
+1. Implement the insert function to handle the Left-Right (LR) and Right-Left (RL) cases.
+2. Using the manual’s logic, write code that first performs a rotation on the child node and then
+a second rotation on the original unbalanced node.
+3. Verify the balance by inserting the sequence {13, 10, 11} and ensure the final root is 11.*/
 #include <iostream>
 using namespace std;
 
