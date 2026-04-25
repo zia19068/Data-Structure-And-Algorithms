@@ -166,34 +166,6 @@ Postfix:    A B + C D - *
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/zia19068/Data-Structure-And-Algorithms.git
-cd Data-Structure-And-Algorithms
-
-# 2. Navigate to any concept
-cd "DSA Concepts"
-
-# 3. Compile with g++
-g++ -std=c++17 -Wall your_file.cpp -o output
-
-# 4. Run
-./output
-```
-
-**Requirements:** Any C++17-compatible compiler — `g++`, `clang++`, or MSVC.
-
----
-
-## 📌 Key Design Decisions
-
-- ✅ **No STL** — `std::vector`, `std::stack`, `std::queue` deliberately avoided
-- ✅ **Manual memory** — every `new` has a matching `delete`
-- ✅ **Recursive logic** — BST operations use clean recursive implementations
-- ✅ **Modular files** — each concept lives in its own file for clarity
-
 ---
 
 ## 👤 Author
