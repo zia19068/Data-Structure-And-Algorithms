@@ -1,3 +1,10 @@
+/*Question #4
+Scenario: An Artificial Intelligence model uses a Decision Tree to help doctors diagnose patients
+based on symptoms. In this model, every internal node is a &quot;yes/no&quot; question (two children), and
+every end node is a diagnosis (leaf).
+ Task: Create a Full Binary Tree where every node has either zero or two children.
+Implement a Pre-order Traversal (Visit node, then left, then right) to print the sequence of
+questions a doctor must ask to reach a final diagnosis path.*/
 #include <iostream>
 #include <string>
 using namespace std;
