@@ -1,3 +1,11 @@
+/*Question # 05
+Scenario: An administrator is deleting old records from a balanced AVL-indexed database. Standard
+deletion can leave the tree unbalanced . Lab Task:
+1. Implement the deleteNode function which first performs a standard BST delete .
+2. Lab Challenge: After the deletion, your code must update the height of the current node and
+calculate the balance factor using getBalance(root) .
+3. Implement the logic to check for all four rotation cases (LL, LR, RR, RL) specifically within
+the deletion function to restore the AVL property .*/
 #include <iostream>
 using namespace std;
 
