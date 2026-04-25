@@ -13,14 +13,11 @@
 
 ### Data Structures & Algorithms in C++
 
-*Ground-up implementations. No STL. No shortcuts. Just pointers.*
 
 <br>
 
 [![Language](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![No STL](https://img.shields.io/badge/STL-Not%20Used-EF4444?style=for-the-badge)]()
 [![Commits](https://img.shields.io/badge/Commits-72-6366F1?style=for-the-badge&logo=git&logoColor=white)](https://github.com/zia19068/Data-Structure-And-Algorithms/commits/main)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
 
 <br>
 
@@ -30,9 +27,8 @@
 
 ## ✦ About This Repository
 
-This repository contains **hand-crafted C++ implementations** of every major data structure and algorithm taught in a Computer Science DSA course — built entirely without the Standard Template Library.
+This repository contains **hand-crafted C++ implementations** of every major data structure and algorithm taught in a Computer Science DSA course.
 
-Every line is written to expose the *internals*: raw memory allocation, manual pointer manipulation, and explicit object lifecycle management. If you've ever wondered what `std::stack` looks like under the hood, you're in the right place.
 
 ```
 📁 DSA Concepts/          ←  Core implementations & theory
