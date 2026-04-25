@@ -1,3 +1,11 @@
+/*Question # 02
+Scenario: You are developing software for a temperature sensor that inserts data every second.
+Sometimes the data arrives in strictly increasing or decreasing order, which would normally create a
+&quot;tall and skinny&quot; tree. Lab Task:
+1. Implement the leftRotate and rightRotate functions as defined in the source.
+2. Create a test script that inserts the sequence {30, 35, 45} and {13, 10, 5}.
+3. Your code must detect the specific imbalance (Right-Right or Left-Left) and automatically
+call the correct rotation function to return a balanced root.*/
 #include <iostream>
 using namespace std;
 
