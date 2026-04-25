@@ -1,3 +1,9 @@
+/*Question #3
+Scenario: You are building an auto-complete feature for a search engine. Words are added to a
+dictionary as users type them.
+ Task: Implement a BST Insertion function that adds new words to the dictionary while
+maintaining the BST property: the left subtree must have keys less than or equal to the
+parent, and the right subtree must have keys greater than or equal to the parent.*/
 #include <iostream>
 #include <string>
 using namespace std;
